@@ -28,8 +28,14 @@
 - I use VsCode from microsoft.
 - You can download VsCode here: [VsCode](https://code.visualstudio.com/)
 
+- Make a new folder to use it.
+- put the following commands:
+- `npm init -y`
+- `npm install --save-dev jest`
+
 - Finaly, Let's beginning.
 - Go to [Jest](https://jestjs.io/)
+- Follow the instructions.
 
 ### PT-BR
 - Antes de começarmos, precisamos preparar o ambiente.
@@ -51,3 +57,6 @@
 - Finalmente, vamos começar.
 - Vá para [Jest](https://jestjs.io/)
 - Siga as instruções.
+
+# Used commands in terminal to run jest test
+> npm test
